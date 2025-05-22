@@ -1,8 +1,6 @@
 
 # 👩‍💻 Kajal Chellappan — _Java Developer | Full Stack Engineer | Tech Explorer_ 🚀
 
-`Kajal Chellappan`▮
-
 🌍 Mannheim, Germany | 📧 kajalckaju33@gmail.com | [LinkedIn](https://www.linkedin.com/in/kajal-chellappan-8411a1101/)
 
 ---
