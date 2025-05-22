@@ -1,5 +1,7 @@
 
-# 👩‍💻 Kajal Chellappan — Java Developer | Full Stack Engineer | Tech Explorer
+# 👩‍💻 Kajal Chellappan — _Java Developer | Full Stack Engineer | Tech Explorer_ 🚀
+
+`Kajal Chellappan`▮
 
 🌍 Mannheim, Germany | 📧 kajalckaju33@gmail.com | [LinkedIn](https://www.linkedin.com/in/kajal-chellappan-8411a1101/)
 
@@ -7,7 +9,7 @@
 
 ## 🙋‍♀️ About Me
 
-Hi there! I'm Kajal — a passionate and results-driven software engineer with over 6 years of experience in Java development and full-stack software engineering. I've worked across dynamic teams, from innovative robotics backends at Wandelbots GmbH to enterprise authentication systems at H&R Block.
+Hi there! I'm Kajal - a passionate and results-driven software engineer with over 6 years of experience in Java development and full-stack software engineering. I've worked across dynamic teams, from innovative robotics backends at Wandelbots GmbH to enterprise authentication systems at H&R Block.
 
 Recently completed Master’s in Applied Computer Science at TH Deggendorf, I specialize in building robust microservices, optimizing backend architectures, and delivering scalable digital solutions. I’m also exploring machine learning techniques like Graph Neural Networks (GNNs) through academic research at Rohde & Schwarz GmbH & Co. KG.
 
@@ -44,10 +46,10 @@ Recently completed Master’s in Applied Computer Science at TH Deggendorf, I sp
 ## 📚 Education
 
 **Technische Hochschule Deggendorf**, Germany  
-Master’s in Applied Computer Science — March 2025
+Master’s in Applied Computer Science - March 2025
 
 **TKM College of Engineering**, India  
-Bachelor of Technology in Computer Science and Engineering — April 2016
+Bachelor of Technology in Computer Science and Engineering - April 2016
 
 ---
 
