@@ -1,3 +1,4 @@
+![Animated Heading](https://i.imgur.com/h3KkvZC.gif)
 # 👩‍💻 Kajal Chellappan — Java Developer | Full Stack Engineer | Tech Explorer
 
 🌍 Mannheim, Germany | 📧 kajalckaju33@gmail.com | [LinkedIn](https://www.linkedin.com/in/kajal-chellappan-8411a1101/)
@@ -14,29 +15,29 @@ Recently completed Master’s in Applied Computer Science at TH Deggendorf, I sp
 
 ## 🛠 Tech Stack
 
-### 💻 Programming Languages
-- Java, Python, JavaScript, C#, C++
+### 💻 Languages
+`Java` • `Python` • `JavaScript` • `C#` • `C++`
 
-### ⚙️ Frameworks & Libraries
-- Spring Boot, Spring MVC, Quarkus, gRPC, Angular, Spring Webflow
+### 🔧 Frameworks & Libraries
+`Spring Boot` • `Spring MVC` • `Quarkus` • `gRPC` • `Angular` • `Spring Webflow`
 
 ### 🌐 Web Technologies
-- RESTful APIs, Microservices, HTML/XML, CSS
+`REST APIs` • `Microservices` • `HTML/XML` • `CSS`
 
-### 🧪 Testing & Quality
-- JUnit, Mockito, Karate, Mountebank
+### 🧪 Testing & Quality Assurance
+`JUnit` • `Mockito` • `Karate` • `Mountebank`
 
-### 🔐 Security & Authorization
-- Shibboleth SSO, OAuth, JWT, RSA Encryption
+### 🔐 Security
+`Shibboleth SSO` • `OAuth` • `JWT` • `RSA Encryption`
 
-### 🔧 DevOps & Tooling
-- Git, CI/CD, Docker, Docker-compose, Maven, Grafana, Prometheus
+### ⚙️ DevOps & Monitoring
+`Git` • `CI/CD Pipelines` • `Docker` • `Docker-compose` • `Maven` • `Grafana` • `Prometheus`
 
 ### 🗃 Databases
-- MySQL, PostgreSQL, Spring Data JPA, MongoDB, Stored Procedures
+`MySQL` • `PostgreSQL` • `Spring Data JPA` • `MongoDB` • `Stored Procedures`
 
-### 📦 Project Tools
-- Jira, Confluence, Agile (Scrum & Kanban), Object-Oriented Programming (OOP), Test-Driven Development (TDD)
+### 📦 Project Tools & Methodologies
+`Jira` • `Confluence` • `Agile (Scrum & Kanban)` • `OOP` • `TDD`
 
 ---
 
