@@ -8,7 +8,7 @@
 
 ## 🙋‍♀️ About Me
 
-Hi there! I'm Kajal - a passionate and results-driven software engineer with over 6 years of experience in Java development and full-stack software engineering. I've worked across dynamic teams, from innovative robotics backends at Wandelbots GmbH to enterprise authentication systems at H&R Block.
+Hi! I'm Kajal - a motivated and results-driven software engineer with over 6 years of experience in Java development and full-stack software engineering. I've worked across dynamic teams, from innovative robotics backends at Wandelbots GmbH to enterprise authentication systems at H&R Block.
 
 Recently completed Master’s in Applied Computer Science at TH Deggendorf, I specialize in building robust microservices, optimizing backend architectures, and delivering scalable digital solutions. I’m also exploring machine learning techniques like Graph Neural Networks (GNNs) through academic research at Rohde & Schwarz GmbH & Co. KG.
 
