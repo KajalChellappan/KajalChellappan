@@ -1,4 +1,4 @@
-![Kajal Chellappan - Animated Heading](https://i.imgur.com/mzls9bG.gif)
+
 # 👩‍💻 Kajal Chellappan — Java Developer | Full Stack Engineer | Tech Explorer
 
 🌍 Mannheim, Germany | 📧 kajalckaju33@gmail.com | [LinkedIn](https://www.linkedin.com/in/kajal-chellappan-8411a1101/)
