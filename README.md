@@ -52,7 +52,7 @@ Bachelor of Technology in Computer Science and Engineering — April 2016
 
 ## 📈 Current Focus
 
-- Actively looking Full time opportunites in Java Backend
+- Actively Searching for Full time opportunites in Java Backend
 - Enhancing German proficiency (A2 → B1 in progress) 🇩🇪
 
 ---
