@@ -1,5 +1,6 @@
+![Typing Banner](https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Kajal+Chellappan+👩‍💻;&center=true&vCenter=true&width=1000&height=60&color=00FF00&background=000000&font=Fira+Code&pause=1500&size=30)
 
-# 👩‍💻 Kajal Chellappan - _Java Developer | Full Stack Engineer | Tech Explorer_ 🚀
+### _Java Developer | Full Stack Engineer | Tech Explorer_ 🚀
 
 🌍 Mannheim, Germany | 📧 kajalckaju33@gmail.com | [LinkedIn](https://www.linkedin.com/in/kajal-chellappan-8411a1101/)
 
